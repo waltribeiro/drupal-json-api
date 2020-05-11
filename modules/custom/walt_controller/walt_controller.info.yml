@@ -1,0 +1,4 @@
+name: Walt Module
+description: A nice module with controller and template
+type: module
+core: 8.x
